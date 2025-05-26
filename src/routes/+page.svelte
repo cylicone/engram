@@ -117,7 +117,7 @@
 						? 'bg-blue-600 hover:bg-blue-700 text-white shadow-lg shadow-blue-600/25'
 						: 'bg-blue-500 hover:bg-blue-600 text-white shadow-lg shadow-blue-500/25'}"
 				>
-					Start Playing
+<a href="/play/">Play Now</a>
 				</button>
 			</div>
 		</div>
